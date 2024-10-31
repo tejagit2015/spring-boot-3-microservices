@@ -39,7 +39,7 @@
           </image>
           <docker>
             <publishRegistry>
-              <username>tejadocker2015</username>
+              <username>yourdocker_user_id</username>
               <password>${dockerPassword}</password>
             </publishRegistry>
           </docker>
