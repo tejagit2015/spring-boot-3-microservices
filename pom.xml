@@ -24,7 +24,7 @@
   <properties>
     <java.version>21</java.version>
     <spring-cloud.version>2023.0.1</spring-cloud.version>
-    <dockerPassword>Teja@docker2015</dockerPassword>
+    <dockerPassword>xxx.com</dockerPassword>
   </properties>
   <build>
     <plugins>
